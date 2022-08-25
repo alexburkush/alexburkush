@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile!
+### Welcome to my GitHub profile!
 
 My name is **Alexander Burkush**, and I'm a front-end developer from Ukraine 🇺🇦.
 
@@ -6,7 +6,7 @@ If you want to know more about me, you can find me on [LinkedIn](https://www.lin
 
 ---
 
-### Languages & technologies
+#### Languages & technologies
 
 * HTML
 * CSS / SASS
