@@ -11,7 +11,6 @@ If you want to know more about me, you can find me on [LinkedIn](https://www.lin
 * HTML
 * CSS / SASS
 * JavaScript
-* TypeScript
 * React & Redux
 * Git
 * Figma
