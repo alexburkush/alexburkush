@@ -13,4 +13,3 @@ If you want to know more about me, you can find me on [LinkedIn](https://www.lin
 * JavaScript
 * React & Redux
 * Git
-* Figma
