@@ -14,7 +14,6 @@ If you want to know more about me, you can find me on [LinkedIn](https://www.lin
 <img align="left" alt="Git" width="26px" src="https://github.com/burkush/burkush/blob/main/icons/git.svg" style="padding-right:10px;" />
 <img align="left" alt="SASS" width="26px" src="https://github.com/burkush/burkush/blob/main/icons/sass.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/burkush/burkush/blob/main/icons/bootstrap.svg" style="padding-right:10px;" />
-<img align="left" alt="Tailwind CSS" width="26px" src="https://github.com/burkush/burkush/blob/main/icons/tailwindcss.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://github.com/burkush/burkush/blob/main/icons/figma.svg" style="padding-right:10px;" />
 <img align="left" alt="C (programming language)" width="26px" src="https://github.com/burkush/burkush/blob/main/icons/c.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://github.com/burkush/burkush/blob/main/icons/cplusplus.svg" style="padding-right:10px;" />
