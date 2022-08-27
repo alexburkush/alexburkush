@@ -7,3 +7,4 @@ If you want to know more about me, you can find me on [LinkedIn](https://www.lin
 ---
 
 ### Languages & technologies
+![image](https://github.com/burkush/burkush/blob/main/icons/html5.svg)
