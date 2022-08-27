@@ -7,7 +7,7 @@ If you want to know more about me, you can find me on [LinkedIn](https://www.lin
 ---
 
 ### Languages & technologies
-<img align="left" alt="HTML" width="26px" src="https://github.com/burkush/burkush/blob/main/icons/html5.svg" style="padding-right:10px;" />
+![alt text]<img align="left" alt="HTML" width="26px" src="https://github.com/burkush/burkush/blob/main/icons/html5.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS" width="26px" src="https://github.com/burkush/burkush/blob/main/icons/css3.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/burkush/burkush/blob/main/icons/javascript.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://github.com/burkush/burkush/blob/main/icons/react.svg" style="padding-right:10px;" />
