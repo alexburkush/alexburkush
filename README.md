@@ -2,10 +2,11 @@
 
 My name is **Alexander Burkush**, and I'm a software developer from Ukraine.
 
-If you want to know more about me, you can find me on [LinkedIn](https://www.linkedin.com/in/alexander-burkush/).
+If you want to contact me, feel free to reach me out on [LinkedIn](https://www.linkedin.com/in/alexander-burkush/).
 
 ---
 
+<!---
 ### Languages & technologies
 
 
@@ -17,3 +18,5 @@ If you want to know more about me, you can find me on [LinkedIn](https://www.lin
 <img align="left" alt="SASS" width="26px" src="https://github.com/burkush/burkush/blob/main/icons/sass.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/burkush/burkush/blob/main/icons/bootstrap.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://github.com/burkush/burkush/blob/main/icons/figma.svg" style="padding-right:10px;" />
+
+--->
