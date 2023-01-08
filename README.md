@@ -2,7 +2,7 @@
 
 My name is **Alexander Burkush**, and I'm a software developer from Ukraine.
 
-If you want to contact me, feel free to reach me out on [LinkedIn](https://www.linkedin.com/in/alexander-burkush/).
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/alexander-burkush/).
 
 <!---
 ### Languages & technologies
