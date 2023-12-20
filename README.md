@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile!
 
-My name is **Alexander Burkush**, and I'm a software engineer from Ukraine.
+My name is **Alexander Burkush**, and I'm a software engineer.
 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/alexander-burkush/).
 
